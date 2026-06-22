@@ -1,6 +1,0 @@
-{
-  "name": "Dota 2 Counter-Picker",
-  "description": "An interactive Dota 2 drafting assistant and counter-pick engine, featuring a complete character roster, structural matchups analyzer, and detailed C++ desktop architecture exporter.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
